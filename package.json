@@ -1,0 +1,13 @@
+{
+  "name": "nodeh",
+  "version": "1.0.0",
+  "description": "node HTTP module example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+
+  "author": "shrawani",
+  "license": "ISC"
+}
